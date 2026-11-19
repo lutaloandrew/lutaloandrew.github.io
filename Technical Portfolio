@@ -209,33 +209,30 @@ security infrastructure support.
 
 
 
-<div class="card">
+<div class="project-card">
 
 <h3>
 VoIP Communication Systems
 </h3>
 
-
 <p>
-
-Implementation and support of IP communication systems
-including IP phones, SIP configuration and PBX solutions.
-
+Hands-on experience supporting IP-based communication
+systems including IP PBX installation, SIP configuration,
+IP phone setup, troubleshooting and maintenance of
+business voice communication solutions.
 </p>
 
+<h4>Skills:</h4>
 
-<br>
-
-<strong>
-Technologies:
-</strong>
-
-<p>
-
-VoIP • SIP • IP PBX • Network Telephony
-
-</p>
-
+<ul>
+<li>IP PBX Installation & Support</li>
+<li>SIP Configuration</li>
+<li>IP Phone Installation</li>
+<li>VoIP Troubleshooting</li>
+<li>Extension Configuration</li>
+<li>Voice Network Support</li>
+<li>System Maintenance</li>
+</ul>
 
 </div>
 
