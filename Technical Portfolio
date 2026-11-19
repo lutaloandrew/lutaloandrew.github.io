@@ -108,38 +108,31 @@ optical power measurement.
 
 
 
-
-
-<div class="card">
+<div class="project-card">
 
 <h3>
-Enterprise Network Infrastructure
+Network Infrastructure Support
 </h3>
 
-
 <p>
-
-Installation and support of enterprise network environments
-including switches, routers, structured cabling and
-network troubleshooting.
-
+Installation, configuration support and troubleshooting
+of business network infrastructure including LAN,
+switches, VLANs, MikroTik RouterOS and connectivity
+solutions.
 </p>
 
+<h4>Skills:</h4>
 
-<br>
-
-<strong>
-Technologies:
-</strong>
-
-<p>
-
-Cisco • MikroTik • VLAN • TCP/IP • LAN/WAN
-
-</p>
-
+<ul>
+<li>LAN/WAN Support</li>
+<li>VLAN Configuration</li>
+<li>MikroTik RouterOS</li>
+<li>Network Troubleshooting</li>
+<li>Managed Switches</li>
+</ul>
 
 </div>
+
 
 
 
