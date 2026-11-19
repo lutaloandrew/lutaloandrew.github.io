@@ -1,0 +1,412 @@
+/* 
+Lutalo Andrew Portfolio
+Infrastructure & Network Support Engineer
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background: #f5f8fc;
+    color: #1f2937;
+
+}
+
+
+
+header {
+
+    background: #0b1f3a;
+    color: white;
+
+    padding: 20px 8%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+}
+
+
+
+.logo {
+
+    font-size: 26px;
+    font-weight: bold;
+
+}
+
+
+
+nav a {
+
+    color: white;
+    text-decoration: none;
+
+    margin-left: 25px;
+
+    font-size: 16px;
+
+}
+
+
+
+nav a:hover {
+
+    color: #38bdf8;
+
+}
+
+
+
+
+
+/* HERO */
+
+
+.hero {
+
+    min-height: 90vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    padding: 50px 10%;
+
+    color: white;
+
+    background:
+
+    linear-gradient(
+    rgba(11,31,58,0.85),
+    rgba(11,31,58,0.85)
+    ),
+
+    url("../images/background.jpg");
+
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+
+.hero-content {
+
+    max-width: 900px;
+
+}
+
+
+
+.hero h1 {
+
+    font-size: 48px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.hero h2 {
+
+    font-size: 32px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.hero p {
+
+    font-size: 20px;
+
+    margin-bottom: 30px;
+
+}
+
+
+
+
+
+
+/* BUTTONS */
+
+
+.btn {
+
+    display: inline-block;
+
+    padding: 12px 30px;
+
+    margin: 10px;
+
+    background: #0284c7;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:5px;
+
+    transition:0.3s;
+
+}
+
+
+
+.btn:hover {
+
+    background:#0369a1;
+
+}
+
+
+
+.secondary {
+
+    background:transparent;
+
+    border:2px solid white;
+
+}
+
+
+
+
+
+/* SECTIONS */
+
+
+section {
+
+    padding:70px 10%;
+
+}
+
+
+
+section h2 {
+
+    text-align:center;
+
+    color:#0b1f3a;
+
+    margin-bottom:40px;
+
+    font-size:36px;
+
+}
+
+
+
+
+
+/* PROFILE */
+
+
+.profile p {
+
+    max-width:900px;
+
+    margin:auto;
+
+    text-align:center;
+
+    font-size:18px;
+
+}
+
+
+
+
+
+/* CARDS */
+
+
+.cards {
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+
+    gap:30px;
+
+}
+
+
+
+.card {
+
+    background:white;
+
+    width:300px;
+
+    padding:30px;
+
+    border-radius:12px;
+
+    box-shadow:
+
+    0 5px 20px rgba(0,0,0,0.08);
+
+    transition:0.3s;
+
+}
+
+
+
+.card:hover {
+
+    transform:translateY(-8px);
+
+}
+
+
+
+.card h3 {
+
+    color:#0284c7;
+
+    margin-bottom:15px;
+
+}
+
+
+
+
+
+
+/* CONTACT BANNER */
+
+
+.contact-banner {
+
+    background:#0b1f3a;
+
+    color:white;
+
+    text-align:center;
+
+}
+
+
+
+.contact-banner h2 {
+
+    color:white;
+
+}
+
+
+
+.contact-banner p {
+
+    margin-bottom:20px;
+
+}
+
+
+
+
+
+
+/* FOOTER */
+
+
+footer {
+
+    background:#061426;
+
+    color:white;
+
+    text-align:center;
+
+    padding:25px;
+
+}
+
+
+
+
+
+
+
+/* MOBILE */
+
+
+@media(max-width:768px){
+
+
+header {
+
+    flex-direction:column;
+
+}
+
+
+
+nav {
+
+    margin-top:20px;
+
+}
+
+
+
+nav a {
+
+    display:block;
+
+    margin:10px;
+
+}
+
+
+
+.hero h1 {
+
+    font-size:32px;
+
+}
+
+
+
+.hero h2 {
+
+    font-size:24px;
+
+}
+
+
+
+.cards {
+
+    flex-direction:column;
+
+    align-items:center;
+
+}
+
+
+
+}
