@@ -1057,4 +1057,30 @@ nav a {
     max-width:380px;
 
 }
+/* Force Professional Highlights Center */
+
+.stats .cards {
+
+    width: fit-content;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    display: grid;
+
+    grid-template-columns: repeat(2, 380px);
+
+    justify-content: center;
+
+    gap: 25px;
+
+}
+
+
+.stats .card {
+
+    width: 380px;
+
+}
 
