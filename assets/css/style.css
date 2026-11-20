@@ -1647,3 +1647,140 @@ section h2{
 
 }
 
+/* =====================================
+   HERO FINAL ALIGNMENT
+===================================== */
+
+
+.hero{
+
+    padding:60px 8% 50px;
+
+    min-height:650px;
+
+}
+
+
+
+.hero-container{
+
+    align-items:flex-start !important;
+
+    padding-top:20px;
+
+}
+
+
+
+.hero-content{
+
+    padding-top:20px;
+
+}
+
+
+
+.hero-content h1{
+
+    font-size:48px;
+
+    margin-bottom:10px;
+
+}
+
+
+
+.hero-content h2{
+
+    font-size:28px;
+
+    line-height:1.3;
+
+    margin-bottom:15px;
+
+}
+
+
+
+.hero-content h3{
+
+    font-size:17px;
+
+    margin-bottom:20px;
+
+}
+
+
+
+.hero-content p{
+
+    font-size:17px;
+
+    line-height:1.7;
+
+    max-width:620px;
+
+}
+
+
+
+.hero-image{
+
+    margin-top:20px;
+
+    justify-content:flex-end;
+
+}
+
+
+
+.hero-image img{
+
+    width:290px;
+
+    height:290px;
+
+}
+
+
+
+.hero-buttons{
+
+    margin-top:25px;
+
+}
+
+
+
+.hero-highlights{
+
+    margin-top:25px;
+
+    gap:15px;
+
+}
+
+
+
+.hero-highlights div{
+
+    padding:10px 15px;
+
+    font-size:14px;
+
+}
+
+
+
+/* Desktop positioning */
+
+@media(min-width:901px){
+
+.hero-image{
+
+    transform:translateY(-35px);
+
+}
+
+}
+
