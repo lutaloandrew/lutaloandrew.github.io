@@ -1083,4 +1083,41 @@ nav a {
     width: 380px;
 
 }
+/* Professional Highlights Fix */
+
+.stats{
+
+    display:block;
+
+    width:100%;
+
+    padding:70px 10%;
+
+}
+
+
+.stats h2{
+
+    display:block;
+
+    width:100%;
+
+    text-align:center;
+
+    margin-bottom:40px;
+
+}
+
+
+.stats .cards{
+
+    display:grid;
+
+    grid-template-columns:repeat(2, 380px);
+
+    justify-content:center;
+
+    gap:30px;
+
+}
 
