@@ -1039,4 +1039,22 @@ nav a {
     line-height:1.5;
 
 }
+/* Center Professional Highlights */
+
+.stats .cards{
+
+    justify-content:center;
+
+    justify-items:center;
+
+}
+
+
+.stats .card{
+
+    width:100%;
+
+    max-width:380px;
+
+}
 
