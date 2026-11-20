@@ -684,3 +684,33 @@ nav a {
 
 }
 
+.card{
+
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 8px 25px rgba(0,0,0,.08);
+    transition:.3s;
+
+}
+
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+
+.tech-tags span{
+
+    display:inline-block;
+    margin:5px 3px;
+    padding:6px 12px;
+    background:#eef4ff;
+    color:#0b4da2;
+    border-radius:20px;
+    font-size:13px;
+
+}
+
