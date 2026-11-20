@@ -103,6 +103,18 @@ optical power measurement.
 </ul>
 
 </div>
+<div class="project-gallery">
+
+    <img src="assets/images/portfolio/fiber/fusion-splicing.jpg" 
+    alt="Fiber Fusion Splicing">
+
+    <img src="assets/images/portfolio/fiber/odf-installation.jpg" 
+    alt="Fiber ODF Installation">
+
+    <img src="assets/images/portfolio/fiber/otdr-testing.jpg" 
+    alt="OTDR Fiber Testing">
+
+</div>
 
 
 
@@ -130,6 +142,19 @@ solutions.
 <li>Network Troubleshooting</li>
 <li>Managed Switches</li>
 </ul>
+
+</div>
+
+<div class="project-gallery">
+
+    <img src="assets/images/portfolio/networking/network-rack.jpg" 
+    alt="Network Rack Installation">
+
+    <img src="assets/images/portfolio/networking/switch-installation.jpg" 
+    alt="Managed Switch Installation">
+
+    <img src="assets/images/portfolio/networking/router-setup.jpg" 
+    alt="Router Configuration">
 
 </div>
 
@@ -167,6 +192,19 @@ wireless connectivity troubleshooting.
 
 </div>
 
+<div class="project-gallery">
+
+    <img src="assets/images/portfolio/wireless/access-point.jpg" 
+    alt="Wireless Access Point">
+
+    <img src="assets/images/portfolio/wireless/wifi-installation.jpg" 
+    alt="WiFi Installation">
+
+    <img src="assets/images/portfolio/wireless/hotspot.jpg" 
+    alt="Wireless Hotspot">
+
+</div>
+
 
 
 
@@ -198,6 +236,19 @@ security infrastructure support.
 <li>Security System Troubleshooting</li>
 <li>Preventive Maintenance</li>
 </ul>
+
+</div>
+
+<div class="project-gallery">
+
+    <img src="assets/images/portfolio/cctv/ip-camera.jpg" 
+    alt="IP Camera Installation">
+
+    <img src="assets/images/portfolio/cctv/nvr-installation.jpg" 
+    alt="NVR Installation">
+
+    <img src="assets/images/portfolio/cctv/security-rack.jpg" 
+    alt="Security System Rack">
 
 </div>
 
@@ -233,6 +284,19 @@ business voice communication solutions.
 <li>Voice Network Support</li>
 <li>System Maintenance</li>
 </ul>
+
+</div>
+
+<div class="project-gallery">
+
+    <img src="assets/images/portfolio/voip/ip-phone.jpg" 
+    alt="IP Phone Installation">
+
+    <img src="assets/images/portfolio/voip/pbx-system.jpg" 
+    alt="IP PBX System">
+
+    <img src="assets/images/portfolio/voip/voip-setup.jpg" 
+    alt="VoIP Setup">
 
 </div>
 
