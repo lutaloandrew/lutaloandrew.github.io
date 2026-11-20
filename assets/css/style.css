@@ -989,4 +989,54 @@ nav a {
     }
 
 }
+/* Professional Highlights Layout */
+
+.stats .cards{
+
+    max-width:900px;
+
+    margin:0 auto;
+
+    display:grid;
+
+    grid-template-columns:repeat(2, 1fr);
+
+    gap:25px;
+
+}
+
+
+.stats .card{
+
+    min-height:220px;
+
+    padding:25px;
+
+    text-align:center;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+
+.stats .card h3{
+
+    font-size:22px;
+
+    margin-bottom:12px;
+
+}
+
+
+.stats .card p{
+
+    font-size:15px;
+
+    line-height:1.5;
+
+}
 
