@@ -1466,31 +1466,18 @@ section h2{
 
 
 
-.hero-image{
-
-    width:330px;
-    height:330px;
-    border-radius:50%;
-    overflow:hidden;
-    border:8px solid rgba(255,255,255,0.25);
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    background:white;
-
-}
-
-
 .hero-image img{
 
-    width:115%;
-    height:115%;
-    object-fit:cover;
-    object-position:center center;
-    transform:translateY(25px);
+    width:320px;
+    height:320px;
 
-}
-.hero-container{
+    object-fit:cover;
+
+    border-radius:50%;
+
+    border:8px solid rgba(255,255,255,0.25);
+
+}.hero-container{
 
     flex-direction:column-reverse;
 
