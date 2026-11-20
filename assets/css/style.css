@@ -1468,22 +1468,19 @@ section h2{
 
 .hero-image img{
 
-    width:320px;
+    width:340px;
 
-    height:320px;
+    height:340px;
 
-    object-fit:contain;
+    object-fit:cover;
 
-    object-position:center;
-
-    background:white;
+    object-position:center 45%;
 
     border-radius:50%;
 
-    border:8px solid rgba(255,255,255,0.25);
+    border:10px solid rgba(255,255,255,0.20);
 
 }
-
 
 
 @media(max-width:900px){
