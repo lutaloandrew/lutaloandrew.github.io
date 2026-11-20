@@ -1472,16 +1472,17 @@ section h2{
 
     height:320px;
 
-    object-fit:cover;
+    object-fit:contain;
 
-    object-position:center 35%;
+    object-position:center;
+
+    background:white;
 
     border-radius:50%;
 
     border:8px solid rgba(255,255,255,0.25);
 
 }
-
 
 
 
