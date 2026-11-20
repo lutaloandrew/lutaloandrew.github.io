@@ -1534,3 +1534,128 @@ section h2{
 
 }
 
+/* =================================
+   HERO RIGHT IMAGE FINAL OVERRIDE
+================================= */
+
+
+.hero {
+
+    width:100%;
+
+    padding:80px 8%;
+
+}
+
+
+.hero-container {
+
+    display:flex !important;
+
+    flex-direction:row !important;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    max-width:1200px;
+
+    margin:auto;
+
+    gap:60px;
+
+}
+
+
+
+.hero-content {
+
+    flex:1;
+
+    text-align:left;
+
+}
+
+
+
+.hero-content h1 {
+
+    text-align:left;
+
+}
+
+
+
+.hero-content h2 {
+
+    text-align:left;
+
+}
+
+
+
+.hero-content p {
+
+    text-align:left;
+
+}
+
+
+
+.hero-image {
+
+    flex:0 0 350px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+
+
+.hero-image img {
+
+    width:330px;
+
+    height:330px;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+}
+
+
+
+@media(max-width:900px){
+
+
+.hero-container {
+
+    flex-direction:column !important;
+
+}
+
+
+.hero-content,
+.hero-content h1,
+.hero-content h2,
+.hero-content p {
+
+    text-align:center;
+
+}
+
+
+.hero-image {
+
+    order:-1;
+
+}
+
+
+}
+
