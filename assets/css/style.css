@@ -584,3 +584,38 @@ nav a {
     }
 
 }
+
+/* ==========================
+   Technical Portfolio Hero
+========================== */
+
+.portfolio-hero{
+
+    text-align:center;
+    padding:80px 20px;
+
+    background:linear-gradient(
+        135deg,
+        #0b4da2,
+        #06316a
+    );
+
+    color:white;
+
+}
+
+.portfolio-hero h1{
+
+    font-size:48px;
+    margin-bottom:20px;
+
+}
+
+.portfolio-hero p{
+
+    max-width:850px;
+    margin:auto;
+    font-size:20px;
+    line-height:1.8;
+
+}
