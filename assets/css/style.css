@@ -265,8 +265,6 @@ section h2 {
 
 .card:hover {
 
-    transform:translateY(-8px);
-
 }
 
 
@@ -1922,7 +1920,6 @@ section h2{
 
     object-fit:cover;
 
-    object-position:center 25%;
 
     border-radius:50%;
 
