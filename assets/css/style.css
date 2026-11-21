@@ -1970,13 +1970,17 @@ section h2{
 
 .hero-left h1{
 
-    font-size:58px;
+    font-size:52px;
 
     line-height:1.1;
 
     margin:0 0 10px;
 
     letter-spacing:1px;
+
+    font-weight:800;
+
+    color:#ffffff;
 
 }
 
