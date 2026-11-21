@@ -1960,7 +1960,10 @@ section h2{
 
     background:rgba(255,255,255,.12);
 
-    color:#d9ecff;
+   color:#ffffff;
+
+    font-weight:600;
+
 
     font-size:14px;
 
@@ -1986,16 +1989,15 @@ section h2{
 
 .hero-left h2{
 
-    font-size:30px;
+    font-size:28px;
 
-    font-weight:600;
+    font-weight:700;
 
     margin-bottom:25px;
 
     color:#ffffff;
 
 }
-
 .hero-description{
 
     max-width:640px;
@@ -2004,7 +2006,9 @@ section h2{
 
     line-height:1.8;
 
-    color:#edf4ff;
+    color:#ffffff;
+
+    font-weight:400;
 
     margin-bottom:35px;
 
@@ -2084,7 +2088,7 @@ section h2{
 
 .highlight span{
 
-    color:#d9ecff;
+    color:#ffffff;
 
     font-size:14px;
 
