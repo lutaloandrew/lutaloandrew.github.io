@@ -2119,7 +2119,9 @@ section h2{
 
     height:100%;
 
-    object-fit:cover;
+    object-fit:contain;
+
+    background:#ffffff;
 
 }
 
