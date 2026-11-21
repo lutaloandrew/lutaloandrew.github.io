@@ -2243,3 +2243,54 @@ section h2{
     color:#ffffff !important;
 
 }    
+/* HERO FINAL VISIBILITY FIX */
+
+.hero{
+
+    position:relative;
+
+    z-index:1;
+
+}
+
+
+.hero-grid{
+
+    position:relative;
+
+    z-index:5;
+
+}
+
+
+.hero-left{
+
+    position:relative;
+
+    z-index:10;
+
+    opacity:1 !important;
+
+    visibility:visible !important;
+
+}
+
+
+.hero-left *{
+
+    opacity:1 !important;
+
+    visibility:visible !important;
+
+}
+
+
+.hero-left h1,
+.hero-left h2,
+.hero-left p,
+.hero-left span,
+.hero-left strong{
+
+    color:#ffffff !important;
+
+}
