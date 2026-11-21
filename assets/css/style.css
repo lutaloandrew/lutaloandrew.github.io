@@ -2091,10 +2091,9 @@ section h2{
 
     display:flex;
 
-    justify-content:center;
+    justify-content:flex-end;
 
 }
-
 .profile-card{
 
     width:360px;
