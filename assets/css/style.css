@@ -2097,9 +2097,9 @@ section h2{
 }
 .profile-card{
 
-    width:360px;
+    width:300px;
 
-    height:460px;
+    height:390px;
 
     background:#ffffff;
 
@@ -2112,7 +2112,6 @@ section h2{
     border:5px solid rgba(255,255,255,.15);
 
 }
-
 .profile-card img{
 
     width:100%;
