@@ -1943,7 +1943,8 @@ section h2{
 
     grid-template-columns:1.3fr 0.9fr;
 
-    align-items:center;
+     align-items:start;
+
 
     gap:70px;
 
