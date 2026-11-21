@@ -2125,56 +2125,58 @@ section h2{
 
 /* ---------- RESPONSIVE ---------- */
 
+/* ---------- RESPONSIVE ---------- */
+
 @media(max-width:960px){
 
-.hero-grid{
+    .hero-grid{
 
-    grid-template-columns:1fr;
+        grid-template-columns:1fr;
 
-    text-align:center;
+        text-align:center;
 
-}
+    }
 
-.hero-description{
 
-    margin-left:auto;
+    .hero-description{
 
-    margin-right:auto;
+        margin-left:auto;
 
-}
+        margin-right:auto;
 
-.hero-buttons{
+    }
 
-    justify-content:center;
 
-}
+    .hero-buttons{
 
-.hero-highlights{
+        justify-content:center;
 
-    grid-template-columns:1fr 1fr;
+    }
 
-}
 
-.profile-card{
+    .hero-highlights{
 
-    width:300px;
+        grid-template-columns:1fr 1fr;
 
-    height:390px;
+    }
 
-    margin-right:25px;
 
-    margin-top:25px;
+    .profile-card{
 
-    background:#fff;
+        width:300px;
 
-    border-radius:24px;
+        height:390px;
 
-    overflow:hidden;
+        margin-right:0;
 
-    box-shadow:0 20px 50px rgba(0,0,0,0.25);
+        margin-top:25px;
+
+    }
 
 }
-/* Desktop Profile Card Adjustment */
+
+
+/* ---------- DESKTOP PROFILE SIZE ---------- */
 
 @media(min-width:961px){
 
@@ -2190,5 +2192,4 @@ section h2{
 
     }
 
-}    
-
+}
