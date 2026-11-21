@@ -2216,3 +2216,30 @@ section h2{
     color:#ffffff !important;
 
 }
+/* HERO VISIBILITY TEST */
+
+.hero-grid,
+.hero-left,
+.hero-right{
+
+    position:relative;
+
+    z-index:10;
+
+}
+
+
+.hero-left h1,
+.hero-left h2,
+.hero-left p,
+.hero-left .hero-tag,
+.hero-left .hero-buttons,
+.hero-left .hero-highlights{
+
+    opacity:1 !important;
+
+    visibility:visible !important;
+
+    color:#ffffff !important;
+
+}    
