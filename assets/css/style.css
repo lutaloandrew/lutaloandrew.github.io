@@ -1928,11 +1928,18 @@ section h2{
 =================================================== */
 
 .hero{
-    background:linear-gradient(135deg,#082b59 0%,#0d5db8 100%);
-    color:#fff;
-    padding:80px 8%;
-}
 
+    background:linear-gradient(
+        135deg,
+        #04152f 0%,
+        #063b78 100%
+    );
+
+    color:#ffffff;
+
+    padding:80px 8%;
+
+}
 .hero-grid{
 
     max-width:1200px;
@@ -2066,13 +2073,9 @@ section h2{
 
 .highlight{
 
-    background:rgba(255,255,255,.10);
+    background:rgba(255,255,255,0.18);
 
-    padding:18px;
-
-    border-radius:14px;
-
-    backdrop-filter:blur(8px);
+    border:1px solid rgba(255,255,255,0.25);
 
 }
 
@@ -2200,5 +2203,16 @@ section h2{
         margin-top:20px;
 
     }
+
+}
+/* HERO TEXT VISIBILITY FIX */
+
+.hero h1,
+.hero h2,
+.hero p,
+.hero span,
+.hero strong{
+
+    color:#ffffff !important;
 
 }
