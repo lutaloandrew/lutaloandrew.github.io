@@ -1941,7 +1941,7 @@ section h2{
 
     display:grid;
 
-    grid-template-columns:1.3fr 0.9fr;
+    grid-template-columns:1fr 380px;
 
      align-items:start;
 
