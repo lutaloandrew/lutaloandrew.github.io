@@ -1959,12 +1959,11 @@ section h2{
 
     display:grid;
 
-    grid-template-columns:1fr 380px;
+    grid-template-columns:minmax(0,1fr) 320px;
 
-     align-items:start;
+    align-items:center;
 
-
-    gap:70px;
+    gap:60px;
 
 }
 
@@ -2247,15 +2246,8 @@ section h2{
 
 
 .hero-left{
-
-    position:relative;
-
-    z-index:10;
-
-    opacity:1 !important;
-
-    visibility:visible !important;
-
+    position: relative;
+    z-index: 2;
 }
 
 
