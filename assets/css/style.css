@@ -38,6 +38,17 @@ header {
     z-index: 1000;
 
 }
+header nav{
+    display:flex;
+    align-items:center;
+    gap:25px;
+    flex-wrap:nowrap;
+}
+
+header nav a{
+    margin-left:0;
+    white-space:nowrap;
+}
 
 
 
